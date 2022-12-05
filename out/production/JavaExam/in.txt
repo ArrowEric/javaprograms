@@ -1,0 +1,11 @@
+LOGIN_ABONAT alexandrae@yahoo.com parolamea
+LOGIN_ANTRENOR ericutzul@yahoo.com luleauaua
+ADAUGA_ANTRENOR ericutzul@yahoo.com
+SUBSCRIBE_ABONAT
+SUBSCRIBE_ANTRENOR
+LOGOUT_ANTRENOR ericutzul@yahoo.com luleauaua
+LOGOUT_ABONAT alexandrae@yahoo.com parolamea
+VIZUALIZARE_ANTRENORI
+ADAUGA_NEWS Toata lumea este smechera
+PERSISTA_ABONATI
+PERSISTA_ANTRENORI
